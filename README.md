@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning JavaScript,ReactJs library.
+- 👯 I’m looking to collaborate on With You're all.
+- 📫 How to reach me: dimuthulakmal36@gmail.com
+
 <!--
 **DimuthuVC/DimuthuVC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
